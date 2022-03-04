@@ -1,6 +1,3 @@
-import jordanEalke from "../assets/images/jordan-walke.png";
-import mandalorian from "../assets/images/mandalorian.jpg";
-
 import "../App.css";
 
 function Footer() {
