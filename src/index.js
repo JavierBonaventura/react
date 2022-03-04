@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "./assets/css/app.css"
+import SideBar from "./components/SideBar.js"
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode>    
     <App />
+   
   </React.StrictMode>,
   document.getElementById('root')
 );
